@@ -1,0 +1,21 @@
+{
+  "name": "bot-discord",
+  "version": "0.0.1",
+  "description": "Bot multifonctions",
+  "main": "index.js",
+  "dependencies": {
+    "apex-api": "^3.1.0",
+    "brawlstars": "^1.2.3",
+    "clash-royale-api": "^1.3.1",
+    "clashapi": "^0.0.2",
+    "discord-pagination.js": "^1.0.2",
+    "discord.js": "^12.0.0-dev",
+    "fortnite": "^4.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "!CR3W#1754",
+  "license": "ISC"
+}

@@ -1,0 +1,40 @@
+{
+    "brstats" : {
+       "err":"Joueur introuvable.",
+       "title":"__Statistiques BrawlStars__",
+       "notag": "Veuillez saisir le tag d'un joueur BrawlStars",
+       "nom":"- `Pseudo` →",
+       "niveau":"- `Niveau` →",
+       "trophée":"- `Trophées` →",
+       "victoire":"- `Victoires` →",
+       "unlocked":"- `Brawlers Débloqués` →",
+       "tag":"- `Tag` →",
+       "club":"- `Club` →",
+       "xp":"- `Total XP` →"
+    },
+    "fnstats" : {
+        "err":"Joueur introuvable.",
+       "title":"__Statistiques Fortnite__",
+       "notag": "Veuillez saisir le nom d'un joueur Fortnite",
+       "nom":"- `Pseudo` →",
+       "id":"- `Identifiant` →",
+       "kd":"- `K/D` →",
+       "kill":"- `Tuer` →",
+       "top1":"- `Top 1` →",
+       "top3":"- `Top 3` →",
+       "top5":"- `Top 5` →",
+       "match":"- `Matches` →"
+    },
+    "skin": {
+        "title":"Télécharger le skin"
+    },
+    "help": {
+        "title":"**•__Menu d'aide__•**",
+        "jeux":"🎮 **Jeux** →",
+        "h":"\n *Affiche ce menu d'aide*",
+        "br":"\n *Affiche les stats d'un joueur BrawlStars*",
+        "fn":"\n *Affiche les stats d'un joueur Fortnite*",
+        "skin": "\n *Affiche le skin d'un joueur Minecraft*",
+        "apex":"\n *Affiche les stats d'un joueur Apex*"
+    }
+   }

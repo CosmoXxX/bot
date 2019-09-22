@@ -1,0 +1,37 @@
+{
+    "brstats" : {
+       "title":"__BrawlStars Stats__",
+       "notag": "Please enter a BrawlStars player tag",
+       "nom":"- `Username` →",
+       "niveau":"- `Levels` →",
+       "trophée":"- `Trophies` →",
+       "victoire":"- `Victories` →",
+       "unlocked":"- `Unlocked Brawlers` →",
+       "tag":"- `Tag` →",
+       "club":"- `Club` →",
+       "xp":"- `Total XP` →"
+    },
+    "fnstats" : {
+        "title":"__Fortnite Stats__",
+        "notag": "Please enter a Fortnite player username.",
+        "nom":"- `Username` →",
+        "id":"- `ID` →",
+        "kd":"- `K/D` →",
+        "kill":"- `kills` →",
+        "top1":"- `Top 1` →",
+        "top3":"- `Top 3` →",
+        "top5":"- `Top 5` →",
+        "match":"- `Matchs` →"
+     },
+     "skin": {
+        "title":"Download this skin"
+    },
+    "help": {
+        "title":"**•__Help Menu__•**",
+        "jeux":"🎮 **Games** →",
+        "h":"\n *Displays this help menu*",
+        "br":"\n *Shows the stats of a Brawlstar player*",
+        "fn":"\n *Shows the stats of a Fortnite player*",
+        "skin": "\n *Shows the skin of a Minecraft player*"
+    }
+   }
