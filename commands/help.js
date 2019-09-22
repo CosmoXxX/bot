@@ -9,6 +9,7 @@ module.exports.run = (client, message, args) => {
 .setThumbnail(client.user.avatarURL)
 .addField(lang.jeux,"`apextstats` , `brstats` , `fnstats` , `skin`")
 .addField("📰 **Informations** →", "`help`")
+.addFied(":police_car: **Staff** →", "`eval`")
 .setTimestamp()
 .setFooter(message.author.username,message.author.avatarURL)
 message.channel.send(embed)
