@@ -12,6 +12,7 @@ const em = new MessageEmbed()
 .setTitle("__Blague du jour__")
 .setDescription(`${joke.question}\n||${joke.answer}||`)
 }
+}
 module.exports.config = {
 name: "joke",
 aliases: []
