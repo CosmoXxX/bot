@@ -23,7 +23,7 @@ return;
     }
   }
 }
-module.exports.help = {
+module.exports.config = {
   name: "eval",
 aliases: "e"
 }
