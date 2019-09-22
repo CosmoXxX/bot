@@ -12,6 +12,7 @@ const em = new MessageEmbed()
 .setTitle("__Blague aléatoire__")
 .setDescription(`${joke.question}\n||${joke.answer}||`)
 }
+}
 module.exports.config = {
 name: "blague",
 aliases: []
