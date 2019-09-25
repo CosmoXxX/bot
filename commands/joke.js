@@ -9,6 +9,7 @@ const joker = new Joker({
 // Obtenir une blague aléatoire
 joker.daily().then(joke => {
 const em = new MessageEmbed()
+.setColor(0x0040ff)
 .setTitle("__Blague du jour__")
 .setDescription(`${joke.question}\n||${joke.answer}||`)
 })
