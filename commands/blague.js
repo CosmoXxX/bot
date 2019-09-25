@@ -7,7 +7,7 @@ const joker = new Joker({
 });
  
 // Obtenir une blague aléatoire
-joker.random().then((joke) => {
+joker.random().then(joke => {
 const em = new MessageEmbed()
 .setTitle("__Blague aléatoire__")
 .setDescription(`${joke.question}\n||${joke.answer}||`)
